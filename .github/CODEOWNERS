@@ -2,4 +2,4 @@
 *             @eclipse-texlipse/eclipsefdn-releng
 
 # Otterdog related configurations are also owned by the security team.
-/otterdog/**  @eclipse-texlipse/eclipsefdn-security @eclipse-texlipse/eclipsefdn-releng
+/otterdog/**  @eclipse-texlipse/eclipsefdn-security
