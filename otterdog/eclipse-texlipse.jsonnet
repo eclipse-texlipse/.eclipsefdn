@@ -23,8 +23,6 @@ orgs.newOrg('eclipse-texlipse') {
       dependabot_security_updates_enabled: true,
       description: "Eclipse Texlipse",
       homepage: "https://projects.eclipse.org/projects/science.texlipse",
-      secret_scanning: "disabled",
-      secret_scanning_push_protection: "disabled",
       topics+: [
         "eclipse-ide",
         "eclipse-science",
