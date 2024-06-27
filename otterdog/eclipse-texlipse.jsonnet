@@ -3,7 +3,6 @@ local orgs = import 'vendor/otterdog-defaults/otterdog-defaults.libsonnet';
 orgs.newOrg('eclipse-texlipse') {
   settings+: {
     blog: "https://projects.eclipse.org/projects/science.texlipse",
-    dependabot_security_updates_enabled_for_new_repositories: false,
     description: "The Eclipse TeXlipse™ project provides an Eclipse extension to support LaTeX projects, so that document preparation can be incorporated into the normal Eclipse ",
     email: "webmaster@eclipse-foundation.org",
     members_can_change_project_visibility: false,
