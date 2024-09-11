@@ -47,7 +47,7 @@ orgs.newOrg('eclipse-texlipse') {
       ],
       secrets: [
         orgs.newRepoSecret('GITLAB_API_TOKEN') {
-          value: "********",
+          value: "pass:bots/science.texlipse/gitlab.eclipse.org/api-token",
         },
       ],
     },
